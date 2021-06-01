@@ -18,7 +18,7 @@ The cost of the PCBs was very cheap.
 
 Besides the key components presented in the Pedalino Mini project. I wanted to share some of the prototype :
 
-The [lends](https://www.tme.eu/fr/details/fix-lc5-3/lentilles/fix-fasten/) are small plastic inserts for the finish of the cover.  
+The [lens](https://www.tme.eu/fr/details/fix-lc5-3/lentilles/fix-fasten/) are small plastic inserts for the finish of the cover.  
 You need extra [M12](https://www.ebay.fr/itm/233320916727?hash=item365302a6f7:g:1WQAAOSwXepcTurq) to hold the PCB to the footswitches.  
 The [leds](https://www.banggood.com/fr/10Pcs-One-Bit-WS2812B-Serial-5050-Full-Color-LED-Sensor-Module-p-964189.html?rmmds=detail-left-hotproducts&cur_warehouse=CN). It would be ideal to just by the leds and capacitor without the extra PCB and pins but I couldn't really solder that.  
 These are are some of the components I used in the rear pannel:

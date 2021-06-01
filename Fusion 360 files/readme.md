@@ -18,3 +18,9 @@ The PCB export is also shared at PCBway. You can order directly the PCBs : https
 This project is shared by Fusion 360 at : https://a360.co/34yC4eN  
 The PCB export is also shared at PCBway. You can order directly the PCBs : https://www.pcbway.com/project/shareproject/Footswtich_PCB_for_my_pedalino_mini_prototype.html  
 
+These are screenshoots of Fusion 360 to give you un idea of the construction:
+![Pic1](https://github.com/juani13973/pedalinio-18-footswitches-prototype/blob/main/images/Pic%201%20-%20Fusion%20360.jpg)
+Same view without the sheet metal cover where the 18 footswitches, 18 lends and LCS are hosted. 
+![Pic2](https://github.com/juani13973/pedalinio-18-footswitches-prototype/blob/main/images/Pic%202%20-%20Fusion%20360.jpg)
+The design of the PCB that host the footswitches and help to build the ladder. You need 2 to build the line of 6 footswitches.
+![Pic3](https://github.com/juani13973/pedalinio-18-footswitches-prototype/blob/main/images/Pic%203%20-%20Fusion%20360.jpg)

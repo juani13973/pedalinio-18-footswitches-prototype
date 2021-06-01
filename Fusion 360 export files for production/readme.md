@@ -16,6 +16,27 @@ The cost of the PCBs was very cheap.
 - ***Mainboard_sch_36_revised v18_2021-04-15.zip*** : File to order the mainboard PCB that host the ESP32. (exported from Fusion 360). You can order direclty [here](https://www.pcbway.com/project/shareproject/Pedalino_mini_mainboard.html)
 
 
+Besides the key components presented in the Pedalino Mini project. I wanted to share some of the prototype :
 
+The [lends](https://www.tme.eu/fr/details/fix-lc5-3/lentilles/fix-fasten/) are small plastic inserts for the finish of the cover.  
+You need extra [M12](https://www.ebay.fr/itm/233320916727?hash=item365302a6f7:g:1WQAAOSwXepcTurq) to hold the PCB to the footswitches.  
+The [leds](https://www.banggood.com/fr/10Pcs-One-Bit-WS2812B-Serial-5050-Full-Color-LED-Sensor-Module-p-964189.html?rmmds=detail-left-hotproducts&cur_warehouse=CN). It would be ideal to just by the leds and capacitor without the extra PCB and pins but I couldn't really solder that.  
+These are are some of the components I used in the rear pannel:
+- [Switch1](https://fr.aliexpress.com/item/1349203593.html?spm=a2g0s.9042311.0.0.46d66c37LY1Li4).  
+- [Switch2](https://fr.aliexpress.com/item/1346271859.html?spm=a2g0s.9042311.0.0.39186c37tSKdOL).  
+- [USBconnector](https://fr.aliexpress.com/item/1346271859.html?spm=a2g0s.9042311.0.0.46d66c37LY1Li4).  
+- [Vin](https://fr.aliexpress.com/item/32974835401.html?spm=a2g0s.9042311.0.0.46d66c37LY1Li4).  
+- 6,5mm jacks are standard.  
+- These are the [footswitches SPDT](https://fr.aliexpress.com/item/32873378875.html?spm=a2g0s.9042311.0.0.46d66c37LY1Li4).  
+- I wouldn't recommend the calbles I used but [these ones](https://fr.aliexpress.com/item/32954418743.html) recommended by @Miqviq.  
+- [Inserts](https://www.amazon.fr/gp/product/B08K1BVGN9/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1) for the bolts.  
+
+Here are some pics of to give you an idea:
+![Pic4](https://github.com/juani13973/pedalinio-18-footswitches-prototype/blob/main/images/pic%207%20-%20cover.JPG)
+![Pic5](https://github.com/juani13973/pedalinio-18-footswitches-prototype/blob/main/images/pic%208%20-%20body.JPG)
+![Pic1](https://github.com/juani13973/pedalinio-18-footswitches-prototype/blob/main/images/Pic%20mainboard.jpeg)
+![Pic2](https://github.com/juani13973/pedalinio-18-footswitches-prototype/blob/main/images/footswitch%20pcb%201.jpg)
+![Pic3](https://github.com/juani13973/pedalinio-18-footswitches-prototype/blob/main/images/footswitch%20pcb%202.jpg)
+![Pic6](https://github.com/juani13973/pedalinio-18-footswitches-prototype/blob/main/images/pic%209%20-%20internal%20view.JPG)
 
 
